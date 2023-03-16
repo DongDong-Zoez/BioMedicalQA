@@ -69,3 +69,5 @@ Another way to access the medical article is through FTP connection
 docker build -t aihub
 docker run -p 8000:8000 aihub
 ```
+
+![](assets/app.png)
