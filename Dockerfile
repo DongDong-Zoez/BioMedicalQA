@@ -34,5 +34,5 @@ WORKDIR /app
 EXPOSE 8000
 
 # Start the Django development server and the React app
-CMD ["sh", "-c", "python manage.py runserver 8000 & cd frontend && npm start"]
+CMD ["sh", "-c", "python manage.py runserver 0.0.0.0:8000 & cd frontend && npm start"]
 

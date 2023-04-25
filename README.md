@@ -1,6 +1,6 @@
 # BioMedical Question Answering
 
-這是一個部屬生物醫學問答 AI 的方法\
+這是一個部屬生物醫學問答 AI 的方法
 
 ## Training process
 
@@ -66,7 +66,7 @@ Another way to access the medical article is through FTP connection
 最後我們在部屬在 Docker 上，用法如下
 
 ```
-docker build -t aihub
+docker build -t aihub .
 docker run -p 8000:8000 aihub
 ```
 

@@ -1,6 +1,3 @@
-# 檔案名稱 .gitignore
+**/__pycache__
 
-# 忽略 config 目錄下的 database.yml 檔案
-apps/static/collectedstatic/model/roberta-base-qa.bin
-collectedstatic/model/roberta-base-qa.bin
-apps/static/model/roberta-base-qa.bin
+**/*.bin
