@@ -1,1 +1,0 @@
-secret_key = '#o9rlbo%)@)mfgb(d%i4+-1072(!hckz9w_))=od73na63cdkn'
